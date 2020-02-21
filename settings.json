@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Solarized Light (no bold)",
+    "window.menuBarVisibility": "toggle",
+    "rust-analyzer.enableEnhancedTyping": false,
+    "rust-analyzer.displayInlayHints": false,
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.autoReveal": false,
+    "terminal.integrated.shell.linux": "/usr/bin/zsh"
+}
